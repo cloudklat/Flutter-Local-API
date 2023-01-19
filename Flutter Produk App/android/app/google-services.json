@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410860081324",
+    "project_id": "bootcampmaterial-4dd24",
+    "storage_bucket": "bootcampmaterial-4dd24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410860081324:android:db90283b51118663a50f09",
+        "android_client_info": {
+          "package_name": "com.example.flutterv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410860081324-flr6vt6sibnr29idomq2oiqva57qndf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Fg_GayDisL5XGQ_S8W1nyfbQEGt03G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410860081324-flr6vt6sibnr29idomq2oiqva57qndf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
